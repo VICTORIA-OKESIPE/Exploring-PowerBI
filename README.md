@@ -11,4 +11,4 @@ Another key feature of Power BI is its ability to leverage artificial intelligen
 
 In summary, Power BI is a comprehensive data visualization tool that provides users with the ability to connect to various data sources, manipulate and transform data, and create stunning visualizations and interactive dashboards that can be shared across organizations. With its rich set of features and integration with other Microsoft tools, Power BI is an excellent choice for businesses and organizations looking to gain insights from their data and have competitive advantage in their chosen industry.
 
-This week I will be continuing my exploration journey about how Microsoft Power BI can be used to improve my visualization skills. I look forward 
+This week I will be continuing my exploration journey about how Microsoft Power BI can be used to improve my visualization skills. I look forward to
