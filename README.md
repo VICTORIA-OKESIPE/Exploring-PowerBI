@@ -5,7 +5,7 @@ One of the key features of Power BI is its ability to connect to a wide range of
 
 Once data is connected, Power BI provides a rich set of tools to manipulate and transform data. These include the ability to merge and reshape data, apply custom calculations and formulas, and create hierarchies and relationships between data sets. With these tools, users can easily clean and prepare their data for analysis.
 
-Power BI also provides a range of visualization options, including charts, graphs, cards, maps, and tables. These visualizations can be customized to meet specific needs and can be easily shared with others. Additionally, Power BI provides the ability to create interactive dashboards that allow users to explore and interact with data in real-time.
+Power BI also provides a range of visualization options, including charts, graphs, cards, maps, and tables. These visualizations can be customized to meet specific needs and can be easily shared with others. Additionally, Power BI provides the ability to create interactive dashboards that allow users to explore and interact with data in real time.
 
 Another key feature of Power BI is its ability to leverage artificial intelligence (AI) and machine learning (ML) algorithms to gain deeper insights into data. For example, users can use natural language processing (NLP) to query data using everyday language or use ML algorithms to identify patterns and trends in data.
 
