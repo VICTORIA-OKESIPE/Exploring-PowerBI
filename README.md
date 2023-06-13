@@ -7,7 +7,7 @@ Once data is connected, Power BI provides a rich set of tools to manipulate and 
 
 Power BI also provides a range of visualization options, including charts, graphs, cards, maps, and tables. These visualizations can be customized to meet specific needs and can be easily shared with others. Additionally, Power BI provides the ability to create interactive dashboards that allow users to explore and interact with data in real-time.
 
-Another key feature of Power BI is its ability to leverage artificial intelligence (AI) and machine learning (ML) algorithms to gain deeper insights into data. For example, users can use natural language processing (NLP) to query data using everyday language, or use ML algorithms to identify patterns and trends in data.
+Another key feature of Power BI is its ability to leverage artificial intelligence (AI) and machine learning (ML) algorithms to gain deeper insights into data. For example, users can use natural language processing (NLP) to query data using everyday language or use ML algorithms to identify patterns and trends in data.
 
 In summary, Power BI is a comprehensive data visualization tool that provides users with the ability to connect to various data sources, manipulate and transform data, and create stunning visualizations and interactive dashboards that can be shared across organizations. With its rich set of features and integration with other Microsoft tools, Power BI is an excellent choice for businesses and organizations looking to gain insights from their data and have competitive advantage in their chosen industry.
 
