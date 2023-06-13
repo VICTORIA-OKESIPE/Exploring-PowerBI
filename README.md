@@ -1,7 +1,7 @@
 # Exploring-PowerBI
 Power BI is a powerful data visualization tool that enables users to turn raw data into actionable insights. Developed by Microsoft, Power BI provides a suite of tools that make it easy for users to connect to various data sources, manipulate data, and create stunning visualizations that can be shared across organizations.
 
-One of the key features of Power BI is its ability to connect to a wide range of data sources, including Excel spreadsheets, cloud-based services such as Azure, Google Analytics, Salesforce, and many others. This means that users can easily access and consolidate data from multiple sources in one place, making it easier to analyze and gain insights.
+One of the key features of Power BI is its ability to connect to a wide range of data sources, including Excel spreadsheets, and cloud-based services such as Azure, Google Analytics, Salesforce, and many others. This means that users can easily access and consolidate data from multiple sources in one place, making it easier to analyze and gain insights.
 
 Once data is connected, Power BI provides a rich set of tools to manipulate and transform data. These include the ability to merge and reshape data, apply custom calculations and formulas, and create hierarchies and relationships between data sets. With these tools, users can easily clean and prepare their data for analysis.
 
